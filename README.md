@@ -5,7 +5,7 @@
 - 🌱 Currently building awesome web and mobile projects.
 - 🔭 Working on a **student marketplace** and a **social feed app**.
 - 📫 Reach me at: misheckchampopa01@gmail.com
-- 🚀 Check out my portfolio: [my-portfolio-deploy-theta.vercel.app](https://my-portfolio-deploy-theta.vercel.app
+- 🚀 Check out my portfolio: [my-portfolio-deploy-theta.vercel.app](https://my-portfolio-deploy-theta.vercel.app)
 - 🤝 Looking to collaborate on projects using **Java**, **React**, **Firebase**, and more.
 - ⚡ Fun fact: I enjoy turning ideas into working products with clean and simple UI.
 
