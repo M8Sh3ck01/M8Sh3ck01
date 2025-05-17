@@ -2,10 +2,6 @@
 
 **Full-Stack Developer** building impactful web, mobile, and desktop applications. Passionate about crafting clean, modern solutions for real-world problems.  
 
-✨ **Current Focus**:  
-- 🛒 Building a **Student Marketplace**  
-- 📱 Developing a **Social Feed App**  
-
 🛠 **Tech Stack**:  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
