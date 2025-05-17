@@ -1,7 +1,6 @@
 ‎
-‎---
-‎
-‎Hi, I'm M8Sh3ck01 👋
+
+‎‎Hi, I'm M8Sh3ck01 👋
 ‎
 ‎🔧 I build web, mobile, and Java desktop applications that solve real-world problems.
 ‎
@@ -31,6 +30,5 @@
 ‎  <img src="https://raw.githubusercontent.com/tailwindlabs/brand/master/tailwindcss-mark.svg" width="40" height="40" alt="Tailwind CSS"/>
 ‎  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
 ‎</p>
-‎---
 ‎
 ‎
