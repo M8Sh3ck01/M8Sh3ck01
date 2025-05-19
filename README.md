@@ -12,8 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1669050349/Brand/Logo/Cloud/cloudinary_icon_blue_512dp.png" width="40" height="40" alt="Cloudinary"/>
 </p>
 
 💡 **Fun Fact**: I thrive on transforming abstract ideas into functional, user-friendly products.  
