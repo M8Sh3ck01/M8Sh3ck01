@@ -1,4 +1,4 @@
-### Hi there, I'm M8Sh3ck01 👋  
+### Hi there, I'm Misheck Champopa 👋  
 
 **Full-Stack Developer** building impactful web, mobile, and desktop applications. Passionate about crafting clean, modern solutions for real-world problems.  
 
