@@ -27,7 +27,7 @@
 
 💡 **Fun Fact**: I thrive on transforming abstract ideas into functional, user-friendly products.  
 
-📫 **Let's Collaborate!**:  
+  
 - ✉️ Email: [misheckchampopa01@gmail.com](mailto:misheckchampopa01@gmail.com)  
 - 🌐 Portfolio: [my-portfolio-deploy-theta.vercel.app](https://my-portfolio-deploy-theta.vercel.app)  
 - 🔄 **Follow me → I follow back!** Let's grow together.  
