@@ -29,5 +29,5 @@
 
   
 - ✉️ Email: [misheckchampopa01@gmail.com](mailto:misheckchampopa01@gmail.com)  
-- 🌐 Portfolio: [my-portfolio-deploy-theta.vercel.app](https://misheck-champopa-portfolio.vercel.app)  
+- 🌐 Portfolio: [misheck-champopa-portfolio.vercel.app](https://misheck-champopa-portfolio.vercel.app)  
 - 🔄 **Follow me → I follow back!** Let's grow together.  
