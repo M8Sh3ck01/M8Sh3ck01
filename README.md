@@ -1,6 +1,6 @@
 ### Hi there, I'm Misheck Champopa  
 
-**Full-Stack Developer** building impactful web, mobile, and desktop applications. Passionate about crafting clean, modern solutions for real-world problems.  
+i do mobile and web development. Passionate about crafting clean, modern solutions for real-world problems.  
 
 🛠 **Tech Stack**:  
 <p align="left">
