@@ -29,4 +29,4 @@ i do mobile and web development. Passionate about crafting clean, modern solutio
 
   
 - ✉️ Email: [misheckchampopa01@gmail.com](mailto:misheckchampopa01@gmail.com)  
-- 🌐 Portfolio: [misheck-champopa-portfolio.vercel.app](https://misheck-champopa-portfolio.vercel.app)  
+- 🌐 Portfolio: [misheck-champopa-portfolio.vercel.app](https://m8sh3ck01.github.io/portfolio/)  
