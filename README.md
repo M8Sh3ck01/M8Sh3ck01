@@ -13,4 +13,7 @@
   <a href="mailto:misheckchampopa01@gmail.com">
     <img src="https://img.shields.io/badge/Email-misheckchampopa01%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://www.linkedin.com/in/misheck-champopa-2b2b26363">
+    <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
