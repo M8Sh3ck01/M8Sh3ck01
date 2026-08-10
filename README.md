@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://m8sh3ck01.github.io/">
+  <a href="https://misheckie.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:misheckchampopa01@gmail.com">
